@@ -1,5 +1,5 @@
 cat << 'EOF' > README.md
-# image-manipulation-analysis-24BAI10320
+# image-manipulation-analysis-24BAI10357
 
 A dual-stream computer vision forensic pipeline combining Spatial Rich Model (SRM) filtering and Error Level Analysis (ELA) to detect and localize digital image tampering.
 
@@ -24,5 +24,5 @@ Clone the repository and install dependencies locally:
 
 ```bash
 git clone https://github.com/akhil952/image-manipulation-analysis-24BAI10320.git
-cd image-manipulation-analysis-24BAI10320
+cd image-manipulation-analysis-24BAI10357
 pip install -r requirements.txt
